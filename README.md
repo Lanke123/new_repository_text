@@ -55,4 +55,29 @@ Markdown语言，修饰正文 <br>
 	3. 废墟图书馆
 		* 安吉拉
 		
+## 表格
+名称|技能|排行
+--|:--:|--:
+罗兰|furioso|1
 
+## 代码块
+```c
+	#include <stdio.h>
+	int main(){
+		printf("Hello World!\n");
+	}
+```
+
+```cpp
+	#include <iostream>
+	using namespace std;
+	int main(){
+		cout<<"Hello world"<<endl;
+	}
+```
+
+```bash
+	ls -l
+	git push origin master
+	git add code.c
+```
