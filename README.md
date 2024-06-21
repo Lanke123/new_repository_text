@@ -284,4 +284,4 @@ Gebura|渴血症|3
 [废墟图书馆Wiki](https://libraryofruina.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)
 
 ### 图片技术
-![我的README.md部分内容](https://i.postimg.cc/SQw3jnDV/4-D3-A742-B-849-C-4b42-BEEB-F4-FC5-FEA406-C.png)
+[![result.png](https://i.postimg.cc/FKRw807x/result.png)](https://postimg.cc/RWkPn613)
